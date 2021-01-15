@@ -1,0 +1,15 @@
+*.pyc
+*~
+__pycache__
+.idea
+venv
+/static
+base/migrations
+cooment/migrations
+faq/migrations
+favorites/migrations
+hh_site/migrations
+organization/migrations
+user/migrations
+comment/migrations
+resume/migrations
